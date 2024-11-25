@@ -7,3 +7,4 @@ https://github.com/2303A52080/23CSBTB39-40/blob/main/Assignment_6.ipynb
 https://github.com/2303A52080/23CSBTB39-40/blob/main/Assignment_7.ipynb
 https://github.com/2303A52080/23CSBTB39-40/blob/main/Assignment_8.ipynb
 https://github.com/2303A52080/23CSBTB39-40/blob/main/Assignment_9.ipynb
+https://github.com/2303A52080/23CSBTB39-40/blob/main/LAB_EXAM.ipynb
